@@ -1,3 +1,7 @@
+.zzz{
+background-image: url("backup2.png");
+background-color: red;
+}
 .wrapper {
     display: flex;
     align-items: stretch;
